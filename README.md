@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mamang007
 - 👀 I’m interested in WebDev and Data Science
-- 🌱 I’m currently learning Phyton for Data Science and JavaScript
+- 🌱 I’m currently working on IoT Company in Indonesia as Software Engineer
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me ...
 
